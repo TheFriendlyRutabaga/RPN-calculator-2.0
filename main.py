@@ -1,5 +1,5 @@
-# author: name here
-# date: date here
+print('Afiya')
+print('5/27/21')
 #
 # description: rpn calculator
 ​
